@@ -1,27 +1,34 @@
-🦸‍♂️ ComicVerse ML Continuum: Superhero-Powered Analytics
+# 🦸‍♂️ ComicVerse ML Continuum: Superhero-Powered Analytics
 <div align="center">
   <h3>Where Marvel and DC Universes meet Machine Learning</h3>
 </div>
-CS4001 – Programming For Finance
-📍 FAST National University of Computer and Emerging Sciences (FAST-NUCES), Islamabad
-👨‍🏫 Instructor: Dr. Ahmed Khan (Associate Professor, CS Department)
-🎓 Program: BS Computer Science (BSCS)
-📅 Semester: Spring 2025
-📌 Sections: BSCS07A, BSCS07B, BSCS07C
+**AF3005 – Programming for Finance**  
 
-📌 Overview
+📍 **FAST National University of Computer and Emerging Sciences (FAST-NUCES), Islamabad**  
+👨‍🏫 **Instructor:** Dr. Usama Arshad (Assistant Professor, FSM)  
+🎓 **Program:** BS Financial Technology (BSFT)  
+📅 **Semester:** Spring 2025  
+📌 **Sections:** BSFT06A, BSFT06B, BSFT06C  
+
+---
+
+## 📌 Overview
+
 ComicVerse ML Continuum is an interactive web application that fuses the worlds of Marvel and DC superheroes with powerful machine learning algorithms. Through engaging superhero-themed interfaces, users can explore different ML techniques - with each hero representing a unique algorithm. Batman brings Linear Regression, Spider-Man offers Logistic Classification, and Thanos demonstrates K-Means Clustering, all within a visually stunning comic-inspired interface.
-✨ Features
 
-🦇 Superhero ML Algorithms: Each hero brings a unique ML superpower
-🧪 Interactive Data Preprocessing: Clean and transform your data with superhero assistance
-🤖 Multiple Data Sources: Upload your own data, fetch stock prices, or use sample datasets
-📈 Comic-Themed Visualizations: Beautiful hero-styled data visualizations
-📊 Complete Model Evaluation: Comprehensive performance metrics for each algorithm
-💾 Hero-Powered Exports: Download your analysis with themed export options
+## ✨ Features
 
-🛠️ Installation
-bash# Clone this repository
+- **🦇 Superhero ML Algorithms**: Each hero brings a unique ML superpower
+- **🧪 Interactive Data Preprocessing**: Clean and transform your data with superhero assistance
+- **🤖 Multiple Data Sources**: Upload your own data, fetch stock prices, or use sample datasets
+- **📈 Comic-Themed Visualizations**: Beautiful hero-styled data visualizations
+- **📊 Complete Model Evaluation**: Comprehensive performance metrics for each algorithm
+- **💾 Hero-Powered Exports**: Download your analysis with themed export options
+
+## 🛠️ Installation
+
+```bash
+# Clone this repository
 git clone https://github.com/your-username/comicverse-ml-continuum.git
 cd comicverse-ml-continuum
 
@@ -31,7 +38,10 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
-📋 Requirements
+```
+
+## 📋 Requirements
+
 The application requires the following Python packages:
 
 streamlit>=1.10.0
@@ -45,31 +55,33 @@ openpyxl>=3.0.9
 pillow>=9.0.0
 seaborn>=0.11.0
 
-🚀 Usage
+## 🚀 Usage
 
-Launch the application:
+1. Launch the application:
 
+```bash
 bashstreamlit run main.py
+```
 
-Navigate to the Mission Control home screen
+2. Access the app in your browser (https://comicverse-ml-continuum-uns4ktyas8gpy4dckzjcp8.streamlit.app/?page=welcome)
+
+3. Navigate to the Mission Control home screen
 Choose your data source:
-
 Upload your own CSV/Excel file
 Fetch real-time stock data from Yahoo Finance
 Use pre-generated sample datasets
 
 
-Select your superhero (algorithm) based on your analysis needs:
+4. Select your superhero (algorithm) based on your analysis needs:
 
 Batman for regression problems (predicting continuous values)
 Spider-Man for classification problems (binary predictions)
 Thanos for clustering tasks (finding patterns in unlabeled data)
-
-
 Follow your chosen hero's guided workflow to analyze your data
 
-🔋 Superhero ML Powers
-🦇 Batman: Linear Regression
+## 🔋 Superhero ML Powers
+
+## 🦇 Batman: Linear Regression
 The Dark Knight brings detective precision to predict continuous values:
 
 Feature selection and coefficient analysis
@@ -77,34 +89,36 @@ Advanced residual investigation
 Predictive modeling with R², MSE and RMSE metrics
 Visualization of actual vs. predicted values
 
-🕸️ Spider-Man: Logistic Regression
-The Web-Slinger uses his Spider-Sense for binary classification:
+## 🕸️ Spider-Man: Logistic Regression
 
+The Web-Slinger uses his Spider-Sense for binary classification:
 Categorical feature handling with label encoding
 Confusion matrix analysis with precision and recall
 ROC curve visualization with AUC metrics
 Probability-based predictions with interactive gauge
 
-💎 Thanos: K-Means Clustering
-The Mad Titan brings perfect balance through unsupervised learning:
+## 💎 Thanos: K-Means Clustering
 
+The Mad Titan brings perfect balance through unsupervised learning:
 Optimal cluster determination
 2D and 3D cluster visualization
 Silhouette score analysis
 Radar charts of cluster profiles
 New data point classification
 
-🎮 Superhero Mission Control
-The central hub offers several options:
+## 🎮 Superhero Mission Control
 
+The central hub offers several options:
 Hero Selection: Choose your superhero based on your analysis needs
 Data Sources: Multiple ways to upload or generate data
 Universe Selection: Explore both Marvel and DC heroes (with more coming soon)
 Customize Experience: Set test sizes, feature selections, and preprocessing options
 
-📄 License
+## 📄 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
-🙏 Acknowledgements
+
+##🙏 Acknowledgements
 
 Marvel and DC Comics for the superhero inspiration
 Streamlit for the amazing web framework
