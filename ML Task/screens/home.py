@@ -68,7 +68,7 @@ def render_welcome_page():
         {"name": "Wonder Woman", "power": "Support Vector Machines", "image": "https://play-lh.googleusercontent.com/gle-JZB2RR1-Gky1KniUlQnZ5Nv1BfP1TpdVFDxCmVquK__JM4Ql0-gl4UFmuP63zek=w240-h480-rw"},
         {"name": "The Flash", "power": "Real-time Analysis", "image": "https://cdn0.iconfinder.com/data/icons/famous-character-vol-1-colored/48/JD-18-512.png"},
         {"name": "Aquaman", "power": "Time Series Analysis", "image": "https://i.pinimg.com/736x/7d/84/be/7d84be977fc9b7f1b3b3e6b53b137506.jpg"},
-        {"name": "Green Lantern", "power": "Dimensionality Reduction", "https://www.pngplay.com/wp-content/uploads/12/Green-Lantern-Transparent-Free-PNG.png"}
+        {"name": "Green Lantern", "power": "Dimensionality Reduction", "image": "https://www.pngplay.com/wp-content/uploads/12/Green-Lantern-Transparent-Free-PNG.png"}
     ]
     
     # Display DC heroes
