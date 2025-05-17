@@ -13,7 +13,7 @@ from themes import show_themed_quote, create_download_buttons
 def render():
     # Thanos themed header
     st.markdown("""
-    <div style="background: url('https://i.imgur.com/sVEzrin.jpg'); background-size: cover; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+    <div style="background: url('https://i.pinimg.com/736x/07/03/e1/0703e1010e663b5c04674ccb6ef34d65.jpg'); background-size: cover; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
         <h1 class="thanos-header">💎 Thanos' Infinity Clusters</h1>
         <h3 style="color: white;">K-Means Clustering Analysis</h3>
     </div>
@@ -148,7 +148,7 @@ def render():
             # Snap animation
             st.markdown("""
             <div style="text-align: center;">
-                <img src="https://i.imgur.com/IisYUih.gif" width="300">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA_jGaodaXeWg9RhkO6UONecQJvJk1j8OyNQ&s" width="300">
                 <p>Perfectly balanced...</p>
             </div>
             """, unsafe_allow_html=True)
@@ -410,7 +410,7 @@ def render():
             st.markdown(f"""
             <div class="thanos-panel" style="text-align: center;">
                 <h3>Thanos' Classification</h3>
-                <img src="https://i.imgur.com/mPwY0Ob.png" width="150">
+                <img src="https://i.pinimg.com/736x/46/19/99/461999fe4e05205ec4deff47a12ca57e.jpg" width="150">
                 <p>The data point belongs to:</p>
                 <h2 style="color: {stone_color}; text-align: center;">Cluster {cluster_prediction}</h2>
                 <p>Distance to cluster center: {distance:.4f}</p>
