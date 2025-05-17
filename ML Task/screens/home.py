@@ -91,12 +91,12 @@ def render_welcome_page():
     """, unsafe_allow_html=True)
     
     marvel_heroes = [
-        {"name": "Spider-Man", "power": "Logistic Regression", "image": "https://i.imgur.com/SJHhqAC.jpg"},
-        {"name": "Iron Man", "power": "Neural Networks", "image": "https://i.imgur.com/placeholder.jpg"},
-        {"name": "Captain America", "power": "Anomaly Detection", "image": "https://i.imgur.com/placeholder.jpg"},
-        {"name": "Thor", "power": "Power Analysis", "image": "https://i.imgur.com/placeholder.jpg"},
-        {"name": "Black Widow", "power": "Sequential Pattern Mining", "image": "https://i.imgur.com/placeholder.jpg"},
-        {"name": "Thanos", "power": "K-Means Clustering", "image": "https://i.imgur.com/sVEzrin.jpg"}
+        {"name": "Spider-Man", "power": "Logistic Regression", "image": "https://icons.veryicon.com/png/o/movie--tv/movie-hero-icon/spider-man-5.png"},
+        {"name": "Iron Man", "power": "Neural Networks", "image": "https://icons.veryicon.com/png/o/movie--tv/movie-hero-icon/iron-man-6.png"},
+        {"name": "Captain America", "power": "Anomaly Detection", "image": "https://cdn1.iconfinder.com/data/icons/user-pop-culture/512/Cap-512.png"},
+        {"name": "Thor", "power": "Power Analysis", "image": "https://i.pinimg.com/736x/fd/9e/5c/fd9e5cd86b459f402c896e22e0e53f1b.jpg"},
+        {"name": "Black Widow", "power": "Sequential Pattern Mining", "image": "https://i.pinimg.com/736x/e2/21/a4/e221a4aed0ede751e330a934268ae66b.jpg"},
+        {"name": "Thanos", "power": "K-Means Clustering", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb6WqSw2oEGKsqfruV7EsHDvoNZoaVtSXnHg&s"}
     ]
     
     # Display Marvel heroes
