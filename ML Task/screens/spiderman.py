@@ -12,7 +12,7 @@ from themes import show_themed_quote, create_download_buttons
 def render():
     # Spider-Man themed header
     st.markdown("""
-    <div style="background: url('https://i.imgur.com/SJHhqAC.jpg'); background-size: cover; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+    <div style="background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN0qjBHdeGKVDSY5G-hCbKuF9muyFswDVidA&s'); background-size: cover; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
         <h1 class="spiderman-header">🕸️ Spider-Man's Web of Decisions</h1>
         <h3 style="color: white;">Logistic Regression Classification</h3>
     </div>
