@@ -121,7 +121,7 @@ Customize Experience: Set test sizes, feature selections, and preprocessing opti
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-##🙏 Acknowledgements
+## 🙏 Acknowledgements
 
 Marvel and DC Comics for the superhero inspiration
 Streamlit for the amazing web framework
