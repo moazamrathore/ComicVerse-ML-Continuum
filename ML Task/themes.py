@@ -121,7 +121,7 @@ def load_css():
     
     /* Welcome page styling */
     .welcome-container {
-        background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('https://i.imgur.com/XJjjpZg.jpg');
+        background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2024/09/Marvel-and-DC-trademarks.jpg');
         background-size: cover;
         padding: 30px;
         border-radius: 10px;
