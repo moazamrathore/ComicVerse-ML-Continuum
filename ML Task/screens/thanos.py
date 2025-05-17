@@ -13,7 +13,7 @@ from themes import show_themed_quote, create_download_buttons
 def render():
     # Thanos themed header
     st.markdown("""
-    <div style="background: url('https://i.pinimg.com/736x/07/03/e1/0703e1010e663b5c04674ccb6ef34d65.jpg'); background-size: cover; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+    <div style="background: url('https://i0.wp.com/gpng.net/wp-content/uploads/Thanos-Head-png.png?fit=820%2C512&ssl=1'); background-size: cover; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
         <h1 class="thanos-header">💎 Thanos' Infinity Clusters</h1>
         <h3 style="color: white;">K-Means Clustering Analysis</h3>
     </div>
@@ -133,7 +133,7 @@ def render():
             # Infinity stone collection animation
             st.markdown("""
             <div style="text-align: center;">
-                <img src="https://i.imgur.com/pJGMH4f.gif" width="200">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2pM77y8WPQ_wDFA9cGkJkI6ShP104CeCKHQ&s" width="200">
                 <p>Collecting Infinity Stones...</p>
             </div>
             """, unsafe_allow_html=True)
