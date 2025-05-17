@@ -63,7 +63,7 @@ def render_welcome_page():
     """, unsafe_allow_html=True)
     
     dc_heroes = [
-        {"name": "Batman", "power": "Linear Regression", "image": "https://i.imgur.com/JMYQrb7.jpg"},
+        {"name": "Batman", "power": "Linear Regression", "image": "https://static.thenounproject.com/png/157453-200.png"},
         {"name": "Superman", "power": "Random Forest", "image": "https://i.imgur.com/placeholder.jpg"},
         {"name": "Wonder Woman", "power": "Support Vector Machines", "image": "https://i.imgur.com/placeholder.jpg"},
         {"name": "The Flash", "power": "Real-time Analysis", "image": "https://i.imgur.com/placeholder.jpg"},
