@@ -13,7 +13,7 @@ from themes import show_themed_quote, create_download_buttons
 def render():
     # Thanos themed header
     st.markdown("""
-    <div style="background: url('https://i0.wp.com/gpng.net/wp-content/uploads/Thanos-Head-png.png?fit=820%2C512&ssl=1'); background-size: cover; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+    <div style="background: url('https://i.pinimg.com/736x/ad/a4/b8/ada4b8b5f666b63978e35bc1bb4410cc.jpg'); background-size: center; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
         <h1 class="thanos-header">💎 Thanos' Infinity Clusters</h1>
         <h3 style="color: white;">K-Means Clustering Analysis</h3>
     </div>
