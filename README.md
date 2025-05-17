@@ -92,6 +92,7 @@ Visualization of actual vs. predicted values
 ## 🕸️ Spider-Man: Logistic Regression
 
 The Web-Slinger uses his Spider-Sense for binary classification:
+
 Categorical feature handling with label encoding
 Confusion matrix analysis with precision and recall
 ROC curve visualization with AUC metrics
@@ -100,6 +101,7 @@ Probability-based predictions with interactive gauge
 ## 💎 Thanos: K-Means Clustering
 
 The Mad Titan brings perfect balance through unsupervised learning:
+
 Optimal cluster determination
 2D and 3D cluster visualization
 Silhouette score analysis
@@ -109,6 +111,7 @@ New data point classification
 ## 🎮 Superhero Mission Control
 
 The central hub offers several options:
+
 Hero Selection: Choose your superhero based on your analysis needs
 Data Sources: Multiple ways to upload or generate data
 Universe Selection: Explore both Marvel and DC heroes (with more coming soon)
