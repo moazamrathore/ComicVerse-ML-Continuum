@@ -12,7 +12,7 @@ from themes import show_themed_quote, create_download_buttons
 def render():
     # Batman themed header
     st.markdown("""
-    <div style="background: url('https://i.imgur.com/JMYQrb7.jpg'); background-size: cover; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+    <div style="background: url('https://cdn.pixabay.com/photo/2024/06/22/16/55/ai-generated-8846672_640.jpg'); background-size: cover; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
         <h1 class="batman-header">🦇 Batman's Detective Lab</h1>
         <h3 style="color: #e6e6e6;">Linear Regression Analysis</h3>
     </div>
