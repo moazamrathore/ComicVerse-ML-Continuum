@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+yfinance
+plotly
+scikit-learn
+reportlab
+xlrd
+pillow
+openpyxl
+requests
+statsmodels
