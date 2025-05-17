@@ -64,8 +64,8 @@ def render_welcome_page():
     
     dc_heroes = [
         {"name": "Batman", "power": "Linear Regression", "image": "https://static.thenounproject.com/png/157453-200.png"},
-        {"name": "Superman", "power": "Random Forest", "image": "https://i.imgur.com/placeholder.jpg"},
-        {"name": "Wonder Woman", "power": "Support Vector Machines", "image": "https://i.imgur.com/placeholder.jpg"},
+        {"name": "Superman", "power": "Random Forest", "image": "https://i.pinimg.com/736x/c5/33/e7/c533e7fffc2be890fbadcc85b729253c.jpg"},
+        {"name": "Wonder Woman", "power": "Support Vector Machines", "image": "https://play-lh.googleusercontent.com/gle-JZB2RR1-Gky1KniUlQnZ5Nv1BfP1TpdVFDxCmVquK__JM4Ql0-gl4UFmuP63zek=w240-h480-rw"},
         {"name": "The Flash", "power": "Real-time Analysis", "image": "https://i.imgur.com/placeholder.jpg"},
         {"name": "Aquaman", "power": "Time Series Analysis", "image": "https://i.imgur.com/placeholder.jpg"},
         {"name": "Green Lantern", "power": "Dimensionality Reduction", "image": "https://i.imgur.com/placeholder.jpg"}
