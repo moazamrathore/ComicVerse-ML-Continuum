@@ -9,7 +9,7 @@ from models import generate_sample_data
 def render_welcome_page():
     st.markdown("""
     <div class="welcome-container">
-        <h1 class="centered-header">🦸‍♂️ Superhero Financial ML Universe</h1>
+        <h1 class="centered-header">🦸‍♂️ ComicVerse ML Continuum</h1>
         <h3 class="centered-header">Where Financial Data meets Superhero Powers!</h3>
     </div>
     """, unsafe_allow_html=True)
