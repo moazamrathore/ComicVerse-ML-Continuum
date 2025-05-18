@@ -44,16 +44,25 @@ pip install -r requirements.txt
 
 The application requires the following Python packages:
 
-streamlit>=1.10.0
-pandas>=1.4.0
-numpy>=1.22.0
-plotly>=5.5.0
-scikit-learn>=1.0.0
-matplotlib>=3.5.0
-yfinance>=0.1.70
-openpyxl>=3.0.9
-pillow>=9.0.0
-seaborn>=0.11.0
+streamlit
+
+pandas
+
+numpy
+
+plotly
+
+scikit-learn
+
+matplotlib
+
+yfinance
+
+openpyxl
+
+pillow
+
+seaborn
 
 ## 🚀 Usage
 
