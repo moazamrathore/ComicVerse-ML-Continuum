@@ -45,23 +45,14 @@ pip install -r requirements.txt
 The application requires the following Python packages:
 
 streamlit
-
 pandas
-
 numpy
-
 plotly
-
 scikit-learn
-
 matplotlib
-
 yfinance
-
 openpyxl
-
 pillow
-
 seaborn
 
 ## 🚀 Usage
